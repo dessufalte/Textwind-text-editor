@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Textwind.exe" version="1.3.1.1" publicKeyToken="823002c16f20eac6" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="full_page.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Textwind" version="1.3.1.1" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Textwind.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ActiproSoftware.Shared.Net20.dll" size="237360">
+      <assemblyIdentity name="ActiproSoftware.Shared.Net20" version="1.0.102.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>G44/qQlgt8U3YYTJpKGNiUMkR7eGbgNioOLK2Motuyg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ActiproSoftware.SyntaxEditor.Net20.dll" size="975704">
+      <assemblyIdentity name="ActiproSoftware.SyntaxEditor.Net20" version="4.0.283.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>nsY2xJ++bRK5xrFi9m5+64a+gc0QJKoadqZe12UvctY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ActiproSoftware.WinUICore.Net20.dll" size="175944">
+      <assemblyIdentity name="ActiproSoftware.WinUICore.Net20" version="1.0.102.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>tl/rUtvyfvTbvz7RSVFyVkUf8SR7zInvyL7JUjE/SMM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CloudToolkitN6.dll" size="920064">
+      <assemblyIdentity name="CloudToolkitN6" version="0.6.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>AV/HL22GSGPUJ7XygVFTO7mz/k9OIfml+t3H0IVp3KA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Guifreaks.Common.dll" size="19456">
+      <assemblyIdentity name="Guifreaks.Common" version="2.0.0.0" publicKeyToken="B9E40AE01DEE0076" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ceN1Z/6wAZvbd7b/NW5bjwqSFJ7a5AoELkRH35ndeWI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Guifreaks.Navisuite.dll" size="120320">
+      <assemblyIdentity name="Guifreaks.Navisuite" version="2.0.0.0" publicKeyToken="7F6DC13CBCA790EA" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>4YktHpL6e/GY7OFnnyzID5omMHlvvepyLAnc3zFntzs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Qios.DevSuite.Components.dll" size="2195456">
+      <assemblyIdentity name="Qios.DevSuite.Components" version="4.0.0.20" publicKeyToken="3CC53827B79C92FA" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>T4T7SgsHddmIXH7kz4CNrimdSylIPcGrjqvDFaPop28=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QSS.Components.dll" size="24576">
+      <assemblyIdentity name="QSS.Components" version="1.0.1.26518" publicKeyToken="0007CA67F3BBFE82" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>4oWxxt4X3sxHKOFHSzFpmtpUvsOGo3rCnNVA1SW7ihc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QSS.Components.Data.dll" size="32768">
+      <assemblyIdentity name="QSS.Components.Data" version="1.0.1.26519" publicKeyToken="BE938C28B62D496A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>CRKLFdwTDammKig4PMdDOyNtLkCfei46SZM1qvlaDVw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QSS.Components.Windows.Forms.dll" size="217088">
+      <assemblyIdentity name="QSS.Components.Windows.Forms" version="2.0.5.874" publicKeyToken="FF4B97C5154224EF" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>CdqJEiUr3KBvAjmSYQN8Hfxs0c665m96dQYNySKb/Co=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Textwind.exe" size="1009152">
+      <assemblyIdentity name="Textwind" version="1.3.1.1" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>2HUH3m+1hmDS6kqVg5d/1CJVEFtey8tS1tLld0aJF2Q=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VIBlend.WinForms.Controls.dll" size="1008640">
+      <assemblyIdentity name="VIBlend.WinForms.Controls" version="10.1.0.0" publicKeyToken="6FEEA38FEF5EA0CF" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>zbqRDdW3L97f8FW/vtgSFwtLg/GqxeD8RxB69zIkP/o=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VIBlend.WinForms.Utilities.dll" size="693248">
+      <assemblyIdentity name="VIBlend.WinForms.Utilities" version="10.1.0.0" publicKeyToken="970A5AF59BC48043" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>qqWqXRV+u/9rGqxBypBUnIp7N3v34eAPULHGwO96w0Y=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="FILE.ico" size="113387">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>PikUN7xwwZGz4p/15g+xDXYY5NzVXSnDvxLPM7uKDWw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="full_page.ico" size="67646">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bJD4nBBcCx11rg0EjF6j8qF1467EWGpUUiCmMXfF6V8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Textwind.exe.config" size="188">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>G2oY7BcZ1jrZQg0H1i0BrR2bPVRQIs1WchE5m9+kU1w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. 
+      Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows Vista, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS>-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+      <!-- If your application is designed to work with Windows 8, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"></supportedOS>-->
+      <!-- If your application is designed to work with Windows 8.1, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=DESKTOP-H40ODDR\User" issuerKeyHash="750452df6cb5af0c0d8f0b6dfeb50c543f8ab41c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Rs0Qh2gAVLPdriw1pH3Km1PHt7my39gFj+fYuS2CW2g=</DigestValue></Reference></SignedInfo><SignatureValue>iuvt/dtmYqLAXQfqT63VgNn3xVjGJAXT5QTr+5uYOOmRU1X94dAAkScy1hVfNVLfZL6fJD14/3SaKrudDQjQJIeos79HFntG3HxSQKN9WDspwod6tYXcVlFSrGl63PMmv/anyWUutIiy9Zx/pOYHahdEqsXKAdEG0ZO90DXszOw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>yD+cCUDteVY8mdXRCj51DzAC7liPSygnXr9/ZaJWW1DeMt5rGbxsNpWDaxdnE3rRmHFeMuCcbbkke7UZ53QIZ7MxYdzTdY0WITHwzo2MoU1PHXt0JY0DrAspBwZi+6y3a/K0VA8fliWOnklT69SfyV5FowXy0JqANHmuEb2Oq5U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="685b822db9d8e78f05d8dfb2b9b7c7539bca7da4352caeddb35400688710cd46" Description="" Url=""><as:assemblyIdentity name="Textwind.exe" version="1.3.1.1" publicKeyToken="823002c16f20eac6" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-H40ODDR\User</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>htVDYUwtwkYC7KKMhmL6U8D/Z33Se7p35pFeGOwTr2g=</DigestValue></Reference></SignedInfo><SignatureValue>Gq7nAVxiuX5p1FQMH+oxp8XeWPKYb5yFp4rgwMKks8sGcLwpvFqb7MVTeULPYC24SCKiXxCzSAA9+Y0IwxsqYxbDDWTgczz4ohQY0HbkOkznApvir3e2usn3NOtFKBuPCQMqUhunyfl59uBlCM/owWyk60Sr7ce5gVkgIzWN3TY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yD+cCUDteVY8mdXRCj51DzAC7liPSygnXr9/ZaJWW1DeMt5rGbxsNpWDaxdnE3rRmHFeMuCcbbkke7UZ53QIZ7MxYdzTdY0WITHwzo2MoU1PHXt0JY0DrAspBwZi+6y3a/K0VA8fliWOnklT69SfyV5FowXy0JqANHmuEb2Oq5U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQbIfVQ+DRMIJEDGKHKsyWujANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigARABFAFMASwBUAE8AUAAtAEgANAAwAE8ARABEAFIAXABVAHMAZQByMB4XDTIwMDYwNTA5MjQwNFoXDTIxMDYwNTE1MjQwNFowMzExMC8GA1UEAx4oAEQARQBTAEsAVABPAFAALQBIADQAMABPAEQARABSAFwAVQBzAGUAcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAyD+cCUDteVY8mdXRCj51DzAC7liPSygnXr9/ZaJWW1DeMt5rGbxsNpWDaxdnE3rRmHFeMuCcbbkke7UZ53QIZ7MxYdzTdY0WITHwzo2MoU1PHXt0JY0DrAspBwZi+6y3a/K0VA8fliWOnklT69SfyV5FowXy0JqANHmuEb2Oq5UCAwEAATANBgkqhkiG9w0BAQsFAAOBgQAtjX1kincLfJevKshvkH6ilp1zun7E9yNouphxauwk1NXNuJT62sekRLrqZWjmwZW3UgG0DDuFtEpMBK8k5LRJhQUbubB0Qfm5ePtRyO6VE85WqiCqOSGkQyx3DoMg/4jxwZVmrc+xxSYyrqRJ0/9EJU5AS6KFvVE60ma9dGosow==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

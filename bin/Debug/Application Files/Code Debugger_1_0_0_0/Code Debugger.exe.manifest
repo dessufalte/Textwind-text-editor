@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Code Debugger.exe" version="1.0.0.0" publicKeyToken="b314e9fdd6c3b953" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Code Debugger" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Code Debugger.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.MSScriptControl.dll" size="8192">
+      <assemblyIdentity name="AxInterop.MSScriptControl" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Fc7CrXMS+7rwlMEEwLSPO0qdtfrZaFTUqTxdSSTV3Ow=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Code Debugger.exe" size="40960">
+      <assemblyIdentity name="Code Debugger" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Qkg+dgHH46xd8vWC4kUc5EVSZCzJugVaI7An6zPBopw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.MSScriptControl.dll" size="14848">
+      <assemblyIdentity name="Interop.MSScriptControl" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>SEOJMJ6ObAyDYQ6ukqKIb//PHcGgv4Y7wonRUhO3MG8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Code Debugger.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>h0UeIdteCM29dGVw07LmHp593fPbh0IN11GyN3f2uRA=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-H40ODDR\User" issuerKeyHash="28a5a76c5906d50f9ae905d2ae8f1ccbfdd453f8" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>s8ded4NEM3oJ2fwhswI6tqyxaZqN+fsnrjCCPLSU6ZI=</DigestValue></Reference></SignedInfo><SignatureValue>FHnRcwBMZ3dEuKTTxg4OfCIWxNPUuaEHyXXdLip8VSizX0fVdop2IrUvp6ZWt9GUHzmyRZRVUiw9LiMRtc8zzTBgBcKGFfkBalwBZ5ghANY66tr1SixQ0B6pitJiFbmEG517OspSXiVqcKQig87b6VIhjn2JYx1GePWYmErQdHo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vpb2molOvc01dnEoop86ZvRAkB4Gin09be6040ZHwKHlhbEmZ605ovM/I+k0WAtfe9WJzIEeAf6pDcn7wEOC7D0eKKALu5D7q12TSgdMaBN/DrvKo1ZBnv6qUhf+Z5ReZbWDVLQWkCAxOwKZhZPaMxh0SON4qgyuiwtb+jlbV20=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="92e994b43c8230ae27fbf98d9a69b1acb63a02b321fcd9097a334483775ec7b3" Description="" Url=""><as:assemblyIdentity name="Code Debugger.exe" version="1.0.0.0" publicKeyToken="b314e9fdd6c3b953" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-H40ODDR\User</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>J0CC2jFseXX83h9HDbgVVFPqj22FH/whqzqYp9BUOUk=</DigestValue></Reference></SignedInfo><SignatureValue>IJA5Rnx2tso47/jBU0eFOiM24lb32kpcCVi06Vw9TjpEbUtUGCFpZccI7GvcPVC8WI2VLzMHBk0SR0D3iRj51mJBHeqNmtOMOAHL6XRDqpNG9+aPtqQpSCOYJb+4uzyJHNfyT87r2Mhd86NuppL3kRWhgPQczYJtBNe6DwLVwOM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vpb2molOvc01dnEoop86ZvRAkB4Gin09be6040ZHwKHlhbEmZ605ovM/I+k0WAtfe9WJzIEeAf6pDcn7wEOC7D0eKKALu5D7q12TSgdMaBN/DrvKo1ZBnv6qUhf+Z5ReZbWDVLQWkCAxOwKZhZPaMxh0SON4qgyuiwtb+jlbV20=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQfsxkBRzHRr5D21jjdgUXqzANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigARABFAFMASwBUAE8AUAAtAEgANAAwAE8ARABEAFIAXABVAHMAZQByMB4XDTIwMDYwNTA5MTQwMVoXDTIxMDYwNTE1MTQwMVowMzExMC8GA1UEAx4oAEQARQBTAEsAVABPAFAALQBIADQAMABPAEQARABSAFwAVQBzAGUAcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvpb2molOvc01dnEoop86ZvRAkB4Gin09be6040ZHwKHlhbEmZ605ovM/I+k0WAtfe9WJzIEeAf6pDcn7wEOC7D0eKKALu5D7q12TSgdMaBN/DrvKo1ZBnv6qUhf+Z5ReZbWDVLQWkCAxOwKZhZPaMxh0SON4qgyuiwtb+jlbV20CAwEAATANBgkqhkiG9w0BAQsFAAOBgQAAKTSK5R1itMGtlAJvLKD868ReiLuqPdq38b8S03skGBZEyVv98PnVZO983zm4hRzbADeibLgCEz9w0gOZt7Hieo9v4KEqbcJoLw1htvlcpzdm4AiiPH9EUwK5UxFtaua9fINtzSTr67MfvFPI8yui9xKNlPMdhJPFLOSxlyE/2Q==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
