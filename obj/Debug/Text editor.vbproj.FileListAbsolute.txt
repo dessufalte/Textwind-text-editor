@@ -1,0 +1,103 @@
+C:\Users\User\AppData\Local\Temporary Projects\Text editor\bin\Debug\Text editor.exe.config
+C:\Users\User\AppData\Local\Temporary Projects\Text editor\bin\Debug\Text editor.exe
+C:\Users\User\AppData\Local\Temporary Projects\Text editor\bin\Debug\Text editor.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Text editor\bin\Debug\Text editor.xml
+C:\Users\User\AppData\Local\Temporary Projects\Text editor\bin\Debug\ActiproSoftware.Shared.Net20.dll
+C:\Users\User\AppData\Local\Temporary Projects\Text editor\bin\Debug\ActiproSoftware.SyntaxEditor.Net20.dll
+C:\Users\User\AppData\Local\Temporary Projects\Text editor\bin\Debug\ActiproSoftware.WinUICore.Net20.dll
+C:\Users\User\AppData\Local\Temporary Projects\Text editor\obj\Debug\Text_editor.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\Text editor\obj\Debug\Text_editor.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\Text editor\obj\Debug\Text editor.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\Text editor\obj\Debug\Text editor.exe
+C:\Users\User\AppData\Local\Temporary Projects\Text editor\obj\Debug\Text editor.xml
+C:\Users\User\AppData\Local\Temporary Projects\Text editor\obj\Debug\Text editor.pdb
+D:\Document imam\Text editor\Text editor\bin\Debug\Text editor.exe.config
+D:\Document imam\Text editor\Text editor\obj\Debug\Text editor.exe
+D:\Document imam\Text editor\Text editor\obj\Debug\Text editor.xml
+D:\Document imam\Text editor\Text editor\obj\Debug\Text editor.pdb
+D:\Document penting\Document imam\Text editor\Text editor\bin\Debug\Text editor.exe.config
+D:\Document penting\Document imam\Text editor\Text editor\obj\Debug\Text editor.exe
+D:\Document penting\Document imam\Text editor\Text editor\obj\Debug\Text editor.xml
+D:\Document penting\Document imam\Text editor\Text editor\obj\Debug\Text editor.pdb
+D:\Document penting\Document imam\Text editor\Text editor\bin\Debug\Text editor.exe
+D:\Document penting\Document imam\Text editor\Text editor\bin\Debug\Text editor.pdb
+D:\Document penting\Document imam\Text editor\Text editor\bin\Debug\Text editor.xml
+D:\Document penting\Document imam\Text editor\Text editor\bin\Debug\ActiproSoftware.Shared.Net20.dll
+D:\Document penting\Document imam\Text editor\Text editor\bin\Debug\ActiproSoftware.SyntaxEditor.Net20.dll
+D:\Document penting\Document imam\Text editor\Text editor\bin\Debug\ActiproSoftware.WinUICore.Net20.dll
+D:\Document penting\Document imam\Text editor\Text editor\obj\Debug\Text_editor.Form1.resources
+D:\Document penting\Document imam\Text editor\Text editor\obj\Debug\Text_editor.Resources.resources
+D:\Document penting\Document imam\Text editor\Text editor\obj\Debug\Text editor.vbproj.GenerateResource.Cache
+D:\Document penting\Document imam\Text editor\Text editor\obj\Debug\Text_editor.Form2.resources
+D:\Document penting\Document imam\Text editor\Text editor\bin\Debug\Guifreaks.Common.dll
+D:\Document penting\Document imam\Text editor\Text editor\bin\Debug\Guifreaks.Navisuite.dll
+D:\Document penting\Document imam\Text editor\Text editor\bin\Debug\QSS.Components.pdb
+D:\Document penting\Document imam\Text editor\Text editor\bin\Debug\QSS.Components.xml
+D:\Document penting\Document imam\Text editor\Text editor\bin\Debug\QSS.Components.Data.pdb
+D:\Document penting\Document imam\Text editor\Text editor\bin\Debug\QSS.Components.Data.xml
+D:\Document penting\Document imam\Text editor\Text editor\bin\Debug\QSS.Components.Windows.Forms.pdb
+D:\Document penting\Document imam\Text editor\Text editor\bin\Debug\QSS.Components.Windows.Forms.xml
+D:\Document penting\Document imam\Text editor\Text editor\bin\Debug\nl-nl\Guifreaks.Navisuite.resources.dll
+D:\Document penting\Document imam\Text editor\Text editor\bin\Debug\Guifreaks.Navisuite.XmlSerializers.dll
+D:\Document penting\Document imam\Text editor\Text editor\obj\Debug\Text_editor.Form5.resources
+D:\Document penting\Document imam\Text editor\Text editor\obj\Debug\Text_editor.Form7.resources
+D:\Document penting\Document imam\Text editor\Text editor\obj\Debug\Text_editor.Form8.resources
+D:\Document penting\Document imam\Text editor\Text editor\obj\Debug\Text_editor.Form9.resources
+D:\Document penting\Document imam\Text editor\Text editor\obj\Debug\Text editor.vbprojResolveAssemblyReference.cache
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text editor.vbproj.GenerateResource.Cache
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\bin\Debug\Textwind.exe.config
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\bin\Debug\Textwind.exe.manifest
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\bin\Debug\Textwind.application
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\bin\Debug\Textwind.exe
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\bin\Debug\Textwind.pdb
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\bin\Debug\Textwind.xml
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Dialog1.resources
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Form1.resources
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Form2.resources
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Form3.resources
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Form5.resources
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Form7.resources
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Form8.resources
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Form9.resources
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Resources.resources
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Textwind.exe.manifest
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Textwind.application
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Textwind.exe
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Textwind.xml
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Textwind.pdb
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Dialog2.resources
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Dialog3.resources
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\bin\Debug\Qios.DevSuite.Components.dll
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Form4.resources
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text editor.vbprojResolveAssemblyReference.cache
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\bin\Debug\Textwind.exe.config
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Textwind.exe
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Textwind.xml
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Textwind.pdb
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\bin\Debug\Textwind.exe.manifest
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\bin\Debug\Textwind.application
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\bin\Debug\Textwind.exe
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\bin\Debug\Textwind.pdb
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\bin\Debug\Textwind.xml
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\bin\Debug\ActiproSoftware.Shared.Net20.dll
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\bin\Debug\ActiproSoftware.SyntaxEditor.Net20.dll
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\bin\Debug\ActiproSoftware.WinUICore.Net20.dll
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\bin\Debug\Qios.DevSuite.Components.dll
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text editor.vbprojResolveAssemblyReference.cache
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Dialog1.resources
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Dialog2.resources
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Dialog3.resources
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Form1.resources
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Form2.resources
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Form3.resources
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Form4.resources
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Form5.resources
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Form7.resources
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Form8.resources
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Form9.resources
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text_wind.Resources.resources
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text editor.vbproj.GenerateResource.Cache
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Textwind.exe.manifest
+G:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Textwind.application
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text editor.vbproj.AssemblyReference.cache
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Text editor\Text editor\obj\Debug\Text editor.vbproj.SuggestedBindingRedirects.cache
